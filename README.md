@@ -1,5 +1,5 @@
 # Selección de fútbol
-Sistema sobre la selección de fútbol con herencia simple a futbolista, entrenador y un masajista, **27/11/19**.
+Sistema sobre la selección de fútbol con herencia simple de una persona en futbolista, entrenador o un masajista, **27/11/19**.
 
 <div align="center">
 <img src="src/media/ejecucion.png">
